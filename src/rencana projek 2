@@ -1,0 +1,26 @@
+# Rencana proyek 
+Denngan adanya aplikasi android,pengguna bisa melihat status lampu, mengatur jadwal nyala/mati, serta menyalakan dan mematikan lampu dari jarak jauh.
+Hal ini membantu kita lebih hemat energi dan juga membuat hidup lebih praktis
+-Tujuan: Membuat aplikasi lampu nyala otomotis berbasis android
+-Tools: Android
+-Fitur Utama: 
+1. Deteksi Cahaya Otomatis
+Lampu akan menyala secara otomatis saat kondisi cahaya di sekitar menjadi redup atau gelap, menggunakan sensor cahaya (ambient light sensor) di perangkat.
+2. Deteksi Gerakan (Motion Sensor)
+Lampu menyala ketika mendeteksi adanya gerakan di sekitar, menggunakan sensor gerak atau kamera perangkat.
+3. Jadwal Otomatis
+pengguna dapat mengatur jadwal waktu kapan lampu harus menyala dan mati secara otomatis.
+4. Kontrol Manual
+Meski otomatis, pengguna masih bisa mengontrol lampu secara manual melalui aplikasi.
+5. Pengaturan Sensitivitas
+Pengguna bisa mengatur sensitivitas sensor cahaya atau gerakan sesuai kebutuhan.
+6. Mode Hemat Energi
+Lampu akan mati otomatis setelah waktu tertentu tanpa ada aktivitas untuk menghemat baterai.
+7. Notifikasi Status Lampu
+Pengguna mendapatkan notifikasi saat lampu menyala atau mati.
+8. Integrasi dengan Smart Home
+Aplikasi bisa diintegrasikan dengan perangkat smart home lainnya, seperti Google Home atau Alexa.
+9. Mode Siang/Malam
+Mengatur lampu agar hanya menyala di malam hari atau dalam kondisi tertentu saja.
+10. Riwayat Aktivitas
+Menampilkan log kapan lampu menyala dan mati.
